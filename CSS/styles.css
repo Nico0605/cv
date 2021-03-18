@@ -1,0 +1,50 @@
+body {
+  background-color: #fbe6c2;
+}
+img:hover{
+  background-color: #daa520;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1 {
+  color: #ff0000;
+}
+
+h3 {
+  color: #daa520;
+  text-transform: uppercase;
+}
+
+.airsoft {
+  text-align: left;
+  background-color: green;
+  color: white;
+  font-size: 15px;
+}
+
+.programmer {
+  text-align: left;
+  background-color: #ff0000;
+  color: white;
+  font-size: 15px;
+}
+
+.biker {
+  text-align: left;
+  background-color: green;
+  color: white;
+  font-size: 15px;
+}
+
+.gamer {
+  text-align: left;
+  background-color: green;
+  color: white;
+  font-size: 15px;
+}
